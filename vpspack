@@ -115,16 +115,6 @@ wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Desinstalar && b
 function SistemaDetalhes(){
 wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/SistemaDetalhes && bash SistemaDetalhes 
 }
-}
-function criarusuario(){
-wget https://raw.githubusercontent.com/ColtSeals/VpsPacket2/master/criarusuario && bash criarusuario
-}
-function criarusuario(){
-wget https://raw.githubusercontent.com/ColtSeals/VpsPacket2/master/criarusuario && bash criarusuario
-}
-function criarusuario(){
-wget https://raw.githubusercontent.com/ColtSeals/VpsPacket2/master/criarusuario && bash criarusuario
-}
 clear
 if [[ $1 == "" ]]
 then
