@@ -27,6 +27,97 @@ chmod +x /bin/vpspack
 rm -rf /bin/speedtest.py 2>/dev/null
 wget -o /dev/null -O- https://raw.githubusercontent.com/ColtSeals/VpsPacket2/master/speedtest.py > /bin/speedtest.py
 chmod +x /bin/speedtest.py
+
+
+
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/ConfSquid -O /bin/ConfSquid
+chmod +x /bin/ConfSquid
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/OpenVPN -O /bin/OpenVPN
+chmod +x /bin/OpenVPN
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/RemoverExpirados -O /bin/RemoverExpirados
+chmod +x /bin/RemoverExpirados
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Teste -O /bin/Teste
+chmod +x /bin/Teste
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/BadVpn.sh -O /bin/BadVpn.sh
+chmod +x /bin/BadVpn.sh
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Monitorar -O /bin/Monitorar
+chmod +x /bin/Monitorar
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/RemoverLimite -O /bin/RemoverLimite
+chmod +x /bin/RemoverLimite
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/MudarNome -O /bin/MudarNome
+chmod +x /bin/MudarNome
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/FirewallBlock -O /bin/FirewallBlock
+chmod +x /bin/FirewallBlock
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/FirewallReset -O /bin/FirewallReset
+chmod +x /bin/FirewallReset
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/AddHost -O /bin/AddHost
+chmod +x /bin/AddHost
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/RemoverHost -O /bin/RemoverHost
+chmod +x /bin/RemoverHost
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Backup -O /bin/Backup
+chmod +x /bin/Backup
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Restaurar -O /bin/Restaurar
+chmod +x /bin/Restaurar
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/DetalhesUsuarios -O /bin/DetalhesUsuarios
+chmod +x /bin/DetalhesUsuarios
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Banner -O /bin/Banner
+chmod +x /bin/Banner
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/LimpadorCache -O /bin/LimpadorCache 
+chmod +x /bin/LimpadorCache 
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/VNC -O /bin/VNC
+chmod +x /bin/VNC
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/tcptweaker -O /bin/tcptweaker
+chmod +x /bin/tcptweaker
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/DeletarTodos -O /bin/DeletarTodos
+chmod +x /bin/DeletarTodos
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Ajuda -O /bin/Ajuda
+chmod +x /bin/Ajuda
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Creditos -O /bin/Creditos
+chmod +x /bin/Creditos
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Telegram -O /bin/Telegram
+chmod +x /bin/Telegram
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Telegram -O /bin/Telegram
+chmod +x /bin/Telegram
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/Desinstalar -O /bin/Desinstalar
+chmod +x /bin/Desinstalar
+
+wget https://raw.githubusercontent.com/ColtSeals/MenuVPS/master/SistemaDetalhes -O /bin/SistemaDetalhes
+chmod +x /bin/SistemaDetalhes
+
+
+
+
+
+
+
+
+
+
 clear
 echo -e "\033[1;31m•••••> \033[01;37mScript Edited ••ColtSeals TecnologY•• \033[0m"
 echo -e "\033[1;32m•••••> A Internet aproxima quem está longe e afasta quem está perto!"
